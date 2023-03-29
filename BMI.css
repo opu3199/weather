@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.bmi{
+    position: absolute;
+    top: 20%;
+    left:50% ;
+    transform: translate(-50%,-50%);
+    padding: 15px;
+    border-radius: 5px;
+    background-color:dimgray;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 5px;   
+}
+.btn{
+    color:black;
+    padding: 20px;
+    border: 2px solid white;
+    background: ;
+    display: block;
+    margin-top:10%;
+    cursor: pointer;
+    
+
+     
+}

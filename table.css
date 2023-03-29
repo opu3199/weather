@@ -1,0 +1,25 @@
+table{
+    width: 600px;
+    border: 2px solid red;
+    background-color: chartreuse;
+    text-align: center;
+}
+table td{
+    padding: 10px;
+    border: 1px solid blue;
+}
+.table_our{
+    display: table;
+    width: 600px;
+    border: 2px solid red;
+    background-color: chartreuse;
+    text-align: center;
+}
+.table_our.our_row{
+    display:table-row;   
+}
+.table_our.our_row.cell{
+    display:table-cell;
+    padding: 10px;
+    border: 1px solid blue;
+}
